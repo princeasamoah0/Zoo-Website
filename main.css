@@ -1,0 +1,44 @@
+body {
+  font-family: helvetica;
+  background-color: #B1E6D9;
+}
+
+h1 {
+  text-align: center;
+  color: #8A9C86;
+}
+
+h2 {
+  color: #8A9C86;
+}
+
+a {
+  border: 3px solid: pink;
+}
+
+table, th, td {
+  border: 3px solid pink;
+}
+
+form {
+  background-color: #BCE6B1;
+}
+
+.link {
+    border: 3px solid pink;
+}
+
+#tutorialImg {
+  border: 4px solid green;
+}
+
+#tiger {
+  width: 35%;
+}
+.smIcon {
+  width: 40px;
+}
+
+.backgroundColor {
+  background-color: red;
+}
